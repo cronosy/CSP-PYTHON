@@ -11,6 +11,11 @@ This package allow connect with your partner center.
 
 - git clone https://github.com/cronosy/CSP-PYTHON
 - import from python code example:
+- cd to CSP-PYTHON
+```python
+pip install .
+```
+
 ```ptyhon
 from csp_connect impot connect
 con= connect.connect_csp("clientid","secretid","tenantid")
