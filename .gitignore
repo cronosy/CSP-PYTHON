@@ -1,2 +1,3 @@
 build/*
 csp_connect.egg-info/*
+csp_connect/__pycache__/*
